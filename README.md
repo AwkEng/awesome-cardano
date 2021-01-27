@@ -4,8 +4,8 @@
 
 ## Contents
 * [General](#general)
-* [Stake Pool Operators](#stake pool operators)
-* [Stake Pool Delegators](#stake pool delegators)
+* [Stake Pool Operators](#stake-pool-operators)
+* [Stake Pool Delegators](#stake-pool-delegators)
 * [Wallets](#wallets)
 * [Articles](#articles)
 * [Podcasts](#podcasts)
