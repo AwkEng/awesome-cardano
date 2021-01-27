@@ -4,10 +4,12 @@
 
 ## Contents
 * [General](#general)
-* [Tutorials](#tutorials)
-* [Videos](#videos)
+* [Stake Pool Operators](#stake pool operators)
+* [Stake Pool Delegators](#stake pool delegators)
+* [Wallets](#wallets)
 * [Articles](#articles)
 * [Podcasts](#podcasts)
+* [YouTube Channels](#youtube)
 * [Presentations](#presentations)
 * [Community](#community)
 
@@ -28,22 +30,22 @@
 * [Stakepool Operator Scripts](https://github.com/gitmachtl/scripts/tree/master/cardano/mainnet) - Stakepool Operator Scripts for Mainnet by Martin (ATADA)
 * [Cardano-Node Github Repo](https://github.com/input-output-hk/cardano-node)
 * [Cardano-Node Releases](https://github.com/input-output-hk/cardano-node/releases)
-* [Pool Ranking in Cardano](https://hydra.iohk.io/job/Cardano/cardano-ledger-specs/specs.pool-ranking/latest/download-by-type/doc-pdf/pool-ranking Stake Pool Ranking in Cardano)
+* [Pool Ranking in Cardano](https://hydra.iohk.io/job/Cardano/cardano-ledger-specs/specs.pool-ranking/latest/download-by-type/doc-pdf/pool-ranking) - Stake Pool Ranking in Cardano
 * [topology.json](https://explorer.mainnet.cardano.org/relays/topology.json) - Extensive list of relays for topology.json
 
-## Stake Pool Delegators
-* [AdaPools Ultimate Newbie Guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf) - How to start with Cardano
-staking for newbies
-* [How to Choose a Pool](https://viperstaking.com/ada-pools/choosing-a-pool/
-* [Staking for Beginners](https://medium.com/cardanorss/staking-for-beginners-a-step-by-step-guide-6dda110b2454)
-
-### Stake Pool Alliances
+### Alliances
 * [Single Pool Alliance](https://singlepoolalliance.net/index.html) - Loosely connected group of separate stake pool operators who have all vowed to run a single stake pool for the sole purpose of providing the Cardano ecosystem with True Decentralization.
 * [Mission Driven Pools](https://missiondrivenpools.org/) - Collective of mission-based Cardano stake pool operators.
 * [Base Metal Alliance](https://cardanobaremetal.com/) - Stake Pool Operators who operate their stake pools using at least one bare metal server.
 * [SPO Tools Alliance](https://github.com/gitmachtl/StakePool-Operator-Tools-Alliance) - Brings together the Individuals in the Cardano-Ecosystem which providing Tools for running and maintaining a StakePool on the Cardano Blockchain.
 * [Cardano Candian Stake Pool Association](https://ccspa.ca/) - A coalition of Cardano stake pool operators across Canada.
 * [Cardano Pools United](https://www.cpoolsunited.com/) - Big collaboration of small stake pools and skilled pool operators.
+
+## Stake Pool Delegators
+* [AdaPools Ultimate Newbie Guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf) - How to start with Cardano
+staking for newbies
+* [How to Choose a Pool](https://viperstaking.com/ada-pools/choosing-a-pool/
+* [Staking for Beginners](https://medium.com/cardanorss/staking-for-beginners-a-step-by-step-guide-6dda110b2454)
 
 ### FAQ
 * [Rewards FAQ](https://cardano-community.github.io/support-faq/#/rewards)
@@ -59,17 +61,19 @@ staking for newbies
 * [Atomic Wallet](https://atomicwallet.io/)
 * [AdaLite Wallet](https://adawallet.io/)
 
-### Misc
+### Security
 * [Security Foundations by Charles Hoskinson](https://www.youtube.com/watch?v=fqrAzBAi64c) - How to Secure Your Wallet Recovery Phrase for Cryptocurrency Wallets
 
 ## Online Tools
 * [Cardano PoolTool](https://pooltool.io/) - Online platform built to facilitate the interaction between SPOs and their stakeholders.
 * [ADApools](https://adapools.org/)
-* [Cardano Blockchain Explorer](https://explorer.cardano.org/en) - Cardano Blockchain Explorer
 * [Staking Rewards Calculator](https://cardano.org/calculator/?calculator=delegator) - How Much Can You Earn From Staking Ada?
 * [Pool.pm](https://pool.pm/) - Cardano in Real Time
-* [AdaStat](https://adastat.net/) - Cardano Blockchain Explorer
-* [Cardanoscan](https://cardanoscan.io/) - Cardano Blockchain Explorer
+
+### Blockchain Explorers
+* [Cardano Blockchain Explorer](https://explorer.cardano.org/en)
+* [AdaStat](https://adastat.net/)
+* [Cardanoscan](https://cardanoscan.io/)
 
 ## Articles
 * [Daedalus - Shelley Exchange Readiness](https://iohk.zendesk.com/hc/en-us/articles/900001924566-Shelley-readiness-of-third-parties) - List of third party exhcnages that support Shelly
