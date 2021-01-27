@@ -1,6 +1,6 @@
 # Awesome Cardano
 
-> A collection of awesome Cardano resources.
+A collection of awesome Cardano resources.
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/AwkEng/awesome-cardano/blob/master/CONTRIBUTING.md) pages first.
 
