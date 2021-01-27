@@ -7,7 +7,8 @@
 * [Stake Pool Operators](#stake-pool-operators)
 * [Stake Pool Delegators](#stake-pool-delegators)
 * [Wallets](#wallets)
-* [Articles](#articles)
+* [Exchanges](#exchanges)
+* [Online Tools](#online-tools)
 * [Podcasts](#podcasts)
 * [YouTube Channels](#youtube)
 * [Community](#community)
@@ -69,6 +70,14 @@ staking for newbies
 ### Security
 * [Security Foundations by Charles Hoskinson](https://www.youtube.com/watch?v=fqrAzBAi64c) - How to Secure Your Wallet Recovery Phrase for Cryptocurrency Wallets
 
+## Exchanges
+* [Exchange Readiness](https://iohk.zendesk.com/hc/en-us/articles/900001924566-Shelley-readiness-of-third-parties) - List of third party exhcnages that support Cardano
+
+### USA
+* [Kraken](https://www.kraken.com/)
+* [Binance.us](https://www.binance.us/en/home)
+* [eToro](https://www.etoro.com/) - Currently doesn't allow transfers to external wallets
+
 ## Online Tools
 * [Cardano PoolTool](https://pooltool.io/) - Online platform built to facilitate the interaction between SPOs and their stakeholders.
 * [ADApools](https://adapools.org/)
@@ -80,9 +89,6 @@ staking for newbies
 * [AdaStat](https://adastat.net/)
 * [Cardanoscan](https://cardanoscan.io/)
 * [AdaEx](https://adaex.org/)
-
-## Articles
-* [Daedalus - Shelley Exchange Readiness](https://iohk.zendesk.com/hc/en-us/articles/900001924566-Shelley-readiness-of-third-parties) - List of third party exhcnages that support Shelly
 
 ## Podcasts
 * [Your Cardano Update](https://podtail.com/podcast/your-cardano-update/)
