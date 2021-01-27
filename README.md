@@ -22,7 +22,7 @@
 * [EDEN Garden Pool Tutorials](https://www.youtube.com/c/EDENGardenPool/videos)
 * [Viper Stake Pool Tutorials](https://www.youtube.com/channel/UCs1LxJFihn45CkGSdLGHQgw/videos)
 
-###Tools
+### Tools
 * [Cardano Configurations](https://hydra.iohk.io/build/5102327/download/1/index.html) - Latest Configurations required for stakepools
 * [Stakepool Operator Scripts](https://github.com/gitmachtl/scripts/tree/master/cardano/mainnet) - Stakepool Operator Scripts for Mainnet by Martin (ATADA)
 * [Cardano-Node Github Repo](https://github.com/input-output-hk/cardano-node)
@@ -36,10 +36,10 @@ staking for newbies
 * [How to Choose a Pool](https://viperstaking.com/ada-pools/choosing-a-pool/
 * [Staking for Beginners](https://medium.com/cardanorss/staking-for-beginners-a-step-by-step-guide-6dda110b2454
 
-###Stake Pool Alliances
+### Stake Pool Alliances
 * [Single Pool Alliance](https://singlepoolalliance.net/index.html)
 
-###FAQ
+### FAQ
 * [Rewards FAQ](https://cardano-community.github.io/support-faq/#/rewards)
 
 ## Wallets
@@ -72,7 +72,7 @@ staking for newbies
 ## Community
 * [Cardano Forums](https://forum.cardano.org/) - Cardano Forums
 
-###Telegram
+### Telegram
 * [Stake Pool Operators Best Practices](https://t.me/CardanoStakePoolWorkgroup)
 * [PoolTool](https://t.me/pooltool)
 * [AdaPool](https://t.me/adapools_ops)
