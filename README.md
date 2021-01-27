@@ -31,14 +31,19 @@
 * [Pool Ranking in Cardano](https://hydra.iohk.io/job/Cardano/cardano-ledger-specs/specs.pool-ranking/latest/download-by-type/doc-pdf/pool-ranking Stake Pool Ranking in Cardano)
 * [topology.json](https://explorer.mainnet.cardano.org/relays/topology.json) - Extensive list of relays for topology.json
 
-### Stake Pool Delegators
+## Stake Pool Delegators
 * [AdaPools Ultimate Newbie Guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf) - How to start with Cardano
 staking for newbies
 * [How to Choose a Pool](https://viperstaking.com/ada-pools/choosing-a-pool/
 * [Staking for Beginners](https://medium.com/cardanorss/staking-for-beginners-a-step-by-step-guide-6dda110b2454)
 
 ### Stake Pool Alliances
-* [Single Pool Alliance](https://singlepoolalliance.net/index.html)
+* [Single Pool Alliance](https://singlepoolalliance.net/index.html) - Loosely connected group of separate stake pool operators who have all vowed to run a single stake pool for the sole purpose of providing the Cardano ecosystem with True Decentralization.
+* [Mission Driven Pools](https://missiondrivenpools.org/) - Collective of mission-based Cardano stake pool operators.
+* [Base Metal Alliance](https://cardanobaremetal.com/) - Stake Pool Operators who operate their stake pools using at least one bare metal server.
+* [SPO Tools Alliance](https://github.com/gitmachtl/StakePool-Operator-Tools-Alliance) - Brings together the Individuals in the Cardano-Ecosystem which providing Tools for running and maintaining a StakePool on the Cardano Blockchain.
+* [Cardano Candian Stake Pool Association](https://ccspa.ca/) - A coalition of Cardano stake pool operators across Canada.
+* [Cardano Pools United](https://www.cpoolsunited.com/) - Big collaboration of small stake pools and skilled pool operators.
 
 ### FAQ
 * [Rewards FAQ](https://cardano-community.github.io/support-faq/#/rewards)
