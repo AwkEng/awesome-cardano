@@ -12,13 +12,14 @@
 * [Community](#community)
 
 ## General
+* [Cardano Roadmap](https://roadmap.cardano.org/en/)
 
 ## Stake Pool Operators
 ### Tutorials
 * [Official Cardano Node Installation](https://docs.cardano.org/projects/cardano-node/en/latest/index.html)
 * [Guild Operators Documentation](https://cardano-community.github.io/guild-operators/) - How to build, operate and maintain a stakepool using Guild Operators tools
 * [Coin Cashew - How to build a stakepool](https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node) - How to build a stakepool from source
-* [Stakepool School](https://cardano-foundation.gitbook.io/stake-pool-course/)
+* [Stake Pool School](https://cardano-foundation.gitbook.io/stake-pool-course/)
 * [EDEN Garden Pool Tutorials](https://www.youtube.com/c/EDENGardenPool/videos)
 * [Viper Stake Pool Tutorials](https://www.youtube.com/channel/UCs1LxJFihn45CkGSdLGHQgw/videos)
 
@@ -34,7 +35,7 @@
 * [AdaPools Ultimate Newbie Guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf) - How to start with Cardano
 staking for newbies
 * [How to Choose a Pool](https://viperstaking.com/ada-pools/choosing-a-pool/
-* [Staking for Beginners](https://medium.com/cardanorss/staking-for-beginners-a-step-by-step-guide-6dda110b2454
+* [Staking for Beginners](https://medium.com/cardanorss/staking-for-beginners-a-step-by-step-guide-6dda110b2454)
 
 ### Stake Pool Alliances
 * [Single Pool Alliance](https://singlepoolalliance.net/index.html)
@@ -53,9 +54,12 @@ staking for newbies
 * [Atomic Wallet](https://atomicwallet.io/)
 * [AdaLite Wallet](https://adawallet.io/)
 
+### Misc
+* [Security Foundations by Charles Hoskinson](https://www.youtube.com/watch?v=fqrAzBAi64c) - How to Secure Your Wallet Recovery Phrase for Cryptocurrency Wallets
+
 ## Online Tools
 * [Cardano PoolTool](https://pooltool.io/) - Online platform built to facilitate the interaction between SPOs and their stakeholders.
-* [ADApools](https://adapools.org/) - TBD
+* [ADApools](https://adapools.org/)
 * [Cardano Blockchain Explorer](https://explorer.cardano.org/en) - Cardano Blockchain Explorer
 * [Staking Rewards Calculator](https://cardano.org/calculator/?calculator=delegator) - How Much Can You Earn From Staking Ada?
 * [Pool.pm](https://pool.pm/) - Cardano in Real Time
@@ -66,13 +70,25 @@ staking for newbies
 * [Daedalus - Shelley Exchange Readiness](https://iohk.zendesk.com/hc/en-us/articles/900001924566-Shelley-readiness-of-third-parties) - List of third party exhcnages that support Shelly
 
 ## Podcasts
+* [The Cardano Effect](https://thecardanoeffect.libsyn.com/)
+
+## YouTube Channels
+* [Charles Hoskinson](https://www.youtube.com/c/DigitalFortress/videos)
+* [Digital Fortress](https://www.youtube.com/c/DigitalFortress/videos)
+* [Slot Leader](https://www.youtube.com/c/SlotLeader/videos)
+* [Kaizen Crypto](https://www.youtube.com/c/KaizenCrypto/videos)
+* [The Cardano Effect](https://www.youtube.com/c/TheCardanoEffect/videos)
 
 ## Presentations
 
 ## Community
-* [Cardano Forums](https://forum.cardano.org/) - Cardano Forums
+* [Cardano Forums](https://forum.cardano.org/)
 
 ### Telegram
-* [Stake Pool Operators Best Practices](https://t.me/CardanoStakePoolWorkgroup)
+* [Cardano Official](https://t.me/Cardano)
+* [Cardano Announcements](https://t.me/CardanoAnnouncements)
+* [Cardano Stake Pool Operators Best Practices](https://t.me/CardanoStakePoolWorkgroup)
+* [Cardano Developers Official](https://t.me/CardanoDevelopersOfficial)
+* [Cardano Trading](https://t.me/CardanoTradingOfficial)
 * [PoolTool](https://t.me/pooltool)
 * [AdaPool](https://t.me/adapools_ops)
