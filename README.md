@@ -111,8 +111,9 @@ staking for newbies
 
 ## Community
 * [Cardano Forums](https://forum.cardano.org/)
+* [Cardano Reddit](https://www.reddit.com/r/cardano/)
 
-### Telegram
+### Telegram Chats
 * [Cardano Official](https://t.me/Cardano)
 * [Cardano Announcements](https://t.me/CardanoAnnouncements)
 * [Cardano Stake Pool Operators Best Practices](https://t.me/CardanoStakePoolWorkgroup)
