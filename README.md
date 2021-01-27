@@ -10,7 +10,6 @@
 * [Articles](#articles)
 * [Podcasts](#podcasts)
 * [YouTube Channels](#youtube)
-* [Presentations](#presentations)
 * [Community](#community)
 
 ## General
@@ -86,18 +85,21 @@ staking for newbies
 * [Daedalus - Shelley Exchange Readiness](https://iohk.zendesk.com/hc/en-us/articles/900001924566-Shelley-readiness-of-third-parties) - List of third party exhcnages that support Shelly
 
 ## Podcasts
-* [The Cardano Effect](https://thecardanoeffect.libsyn.com/)
+* [Your Cardano Update](https://podtail.com/podcast/your-cardano-update/)
+* [The Cardano Effect](https://thecardanoeffect.libsyn.com/) - Discontinued
 
 ## YouTube Channels
+* [IOHK](https://www.youtube.com/c/IohkIo/videos)
+* [Cardano Foundation](https://www.youtube.com/c/CardanoFoundation/videos)
 * [Charles Hoskinson](https://www.youtube.com/c/DigitalFortress/videos)
 * [Digital Fortress](https://www.youtube.com/c/DigitalFortress/videos)
 * [Slot Leader](https://www.youtube.com/c/SlotLeader/videos)
 * [Kaizen Crypto](https://www.youtube.com/c/KaizenCrypto/videos)
 * [Big Pey](https://www.youtube.com/c/bigpey/videos)
 * [Monad Pool](https://www.youtube.com/channel/UCZY2QuKGKWgDe1e8hxEmlBQ/videos)
-* [The Cardano Effect](https://www.youtube.com/c/TheCardanoEffect/videos)
-
-## Presentations
+* [Cardano with Paul](https://www.youtube.com/c/CardanoWithPaul/videos)
+* [Your Cardano Update](https://www.youtube.com/c/YourCardanoUpdate/videos)
+* [The Cardano Effect](https://www.youtube.com/c/TheCardanoEffect/videos) - Discontinued
 
 ## Community
 * [Cardano Forums](https://forum.cardano.org/)
